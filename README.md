@@ -1,2 +1,2 @@
-# Bitcoin design
+# Bitcoin Anatomy
 
